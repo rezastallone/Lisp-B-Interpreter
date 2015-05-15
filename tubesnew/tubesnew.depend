@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1431331226 source:e:\c++\tubesnew\main.cpp
+	"tubesnew.h"
+
+1431338807 source:e:\c++\tubesnew\tubesnew.cpp
+	"tubesnew.h"
+
+1430979615 e:\c++\tubesnew\tubesnew.h
+	<cmath>
+	<string>
+	<iostream>
+	<stdlib.h>
+	<vector>
+
